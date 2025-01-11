@@ -56,3 +56,6 @@ Seaborn: An extension of Matplotlib for better-looking statistical graphics.
 Plotly: Used for creating interactive charts and visualizations.
 Dash: A framework for building interactive web-based dashboards with Python.
 JSON: A format used for parsing and processing API responses.
+#OUTPUT
+![WhatsApp Image 2025-01-11 at 20 51 14_9f1bd4b2](https://github.com/user-attachments/assets/4b8bb828-9176-40aa-8dcc-fd0ca69d3c5d)
+
